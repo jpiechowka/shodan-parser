@@ -135,5 +135,6 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-### Shodan parser default output files
+### Shodan parser default output and input files
+shodan_data.json
 targets.txt
