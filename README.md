@@ -4,11 +4,11 @@ Shodan Parser will parse JSON data exported from SHODAN and create IP:PORT forma
 list to be used with other tools. To run specify path to a file with JSON
 data from SHODAN.
 
-# Requirements
+## Requirements
 
 ```pip install click```
 
-# Usage and options
+## Usage and options
 
 ```
 Usage: shodan-parser.py [OPTIONS] SHODAN_JSON_FILE
